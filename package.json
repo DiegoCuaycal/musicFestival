@@ -1,0 +1,27 @@
+{
+  "name": "festivalmusic",
+  "version": "1.0.0",
+  "description": "Aprendiendo SASS",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch src/scss:dist/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoCuaycal/musicFestival.git"
+  },
+  "keywords": [
+    "SASS",
+    "NPM"
+  ],
+  "author": "Diego Cuaycal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoCuaycal/musicFestival/issues"
+  },
+  "homepage": "https://github.com/DiegoCuaycal/musicFestival#readme",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "sass": "^1.80.6"
+  }
+}
